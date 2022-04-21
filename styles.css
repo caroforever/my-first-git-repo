@@ -12,3 +12,11 @@ body {
     background-color: peachpuff;
     color: blue;
 }
+
+h2 {
+    font-size: 12px;
+}
+
+h1 {
+    color: cadetblue;
+}
