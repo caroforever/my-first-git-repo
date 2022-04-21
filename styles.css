@@ -10,7 +10,6 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 
 body {
     background-color: peachpuff;
-    color: blue;
 }
 
 h2 {
@@ -18,10 +17,11 @@ h2 {
 }
 
 h1 {
-    color: cadetblue;
+    color: tomato;
 }
 
 p {
     width: 80%;
     height: 50%;
 }
+
